@@ -1,0 +1,11 @@
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\obj\Debug\lab2 2sem.csproj.AssemblyReference.cache
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\obj\Debug\lab2 2sem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\obj\Debug\lab2_2sem.Form1.resources
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\obj\Debug\lab2_2sem.Properties.Resources.resources
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\obj\Debug\lab2 2sem.csproj.GenerateResource.cache
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\obj\Debug\lab2 2sem.csproj.CoreCompileInputs.cache
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\bin\Debug\lab2 2sem.exe.config
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\bin\Debug\lab2 2sem.exe
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\bin\Debug\lab2 2sem.pdb
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\obj\Debug\lab2 2sem.exe
+C:\Users\mrfun\source\repos\c#\lab2 2sem\lab2 2sem\obj\Debug\lab2 2sem.pdb

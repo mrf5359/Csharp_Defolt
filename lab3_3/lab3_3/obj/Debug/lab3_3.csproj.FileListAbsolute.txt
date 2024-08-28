@@ -1,0 +1,11 @@
+D:\c#_lab\lab3_3\lab3_3\bin\Debug\lab3_3.exe.config
+D:\c#_lab\lab3_3\lab3_3\bin\Debug\lab3_3.exe
+D:\c#_lab\lab3_3\lab3_3\bin\Debug\lab3_3.pdb
+D:\c#_lab\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.AssemblyReference.cache
+D:\c#_lab\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.SuggestedBindingRedirects.cache
+D:\c#_lab\lab3_3\lab3_3\obj\Debug\lab3_3.Form1.resources
+D:\c#_lab\lab3_3\lab3_3\obj\Debug\lab3_3.Properties.Resources.resources
+D:\c#_lab\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.GenerateResource.cache
+D:\c#_lab\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.CoreCompileInputs.cache
+D:\c#_lab\lab3_3\lab3_3\obj\Debug\lab3_3.exe
+D:\c#_lab\lab3_3\lab3_3\obj\Debug\lab3_3.pdb
